@@ -7,6 +7,7 @@
 | 文档 | 说明 |
 | --- | --- |
 | [guidelines/code-review-7d-self-check.md](guidelines/code-review-7d-self-check.md) | **7 维自查协议**：生成/修改任何代码后必跑的 7 个维度自查，末尾附《自查报告》 |
+| [guidelines/project-doc-structure.md](guidelines/project-doc-structure.md) | **项目文档整理与写作规范**：主题目录 + 任务导向索引 + TL;DR 体例，含存量重构 SOP 与长期约定短版 |
 
 ## 7 维自查协议概览
 
