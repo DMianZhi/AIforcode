@@ -9,6 +9,7 @@
 | [guidelines/code-review-7d-self-check.md](guidelines/code-review-7d-self-check.md) | **7 维自查协议**：生成/修改任何代码后必跑的 7 个维度自查，末尾附《自查报告》 |
 | [guidelines/project-doc-structure.md](guidelines/project-doc-structure.md) | **项目文档整理与写作规范**：主题目录 + 任务导向索引 + TL;DR 体例，含存量重构 SOP 与长期约定短版 |
 | [guidelines/commit-records-and-message-format.md](guidelines/commit-records-and-message-format.md) | **提交信息格式规范**：中文标题、正文、协作署名和提交前检查 |
+| [skills/workspace-checkpoint/SKILL.md](skills/workspace-checkpoint/SKILL.md) | **Workspace Checkpoint**：更新项目活记忆、验证本任务改动、保守清理并形成本地检查点 |
 
 ## 7 维自查协议概览
 
