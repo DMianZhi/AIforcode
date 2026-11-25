@@ -6,6 +6,7 @@
 
 | 文档 | 说明 |
 | --- | --- |
+| [guidelines/codex/AGENTS.md](guidelines/codex/AGENTS.md) | **Codex / ChatGPT 专用**：全局协作指引，涵盖回复语言、任务推进与结果汇报 |
 | [guidelines/code-review-7d-self-check.md](guidelines/code-review-7d-self-check.md) | **7 维自查协议**：生成/修改任何代码后必跑的 7 个维度自查，末尾附《自查报告》 |
 | [guidelines/project-doc-structure.md](guidelines/project-doc-structure.md) | **项目文档整理与写作规范**：主题目录 + 任务导向索引 + TL;DR 体例，含存量重构 SOP 与长期约定短版 |
 | [guidelines/commit-records-and-message-format.md](guidelines/commit-records-and-message-format.md) | **提交信息格式规范**：中文标题、正文、协作署名和提交前检查 |
